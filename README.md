@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TranNhatQuang2405
 - 👀 I’m interested in Java, Web, ReactJS
-- 🌱 I’m have at least 1 year working with Java 
+- 🌱 I have at least 1 year working with Java 
 
 
 <!---
